@@ -1,0 +1,34 @@
+{
+    "blogs":[
+        {
+            "id":"1",
+            "title":"TSS Notes",
+            "writer":"By Dr. Aftab Memon",
+            "content":"After graduating college, you will have plenty of time in your hands to go through different kinds of freelancing job lists, what skills the employer requires from you, websites and offers. There is so much diversity; people look for writers, artists, programmers, website designers, graphic designers, and much more. This means that there is a higher chance of you finding something that sparks your interest rather than sticking to the conventional jobs."
+        },
+        {
+            "id":"2",
+            "title":"WC Notes",
+            "writer":"By Dr. Sajjad Memon",
+            "content":"After graduating college, you will have plenty of time in your hands to go through different kinds of freelancing job lists, what skills the employer requires from you, websites and offers. There is so much diversity; people look for writers, artists, programmers, website designers, graphic designers, and much more. This means that there is a higher chance of you finding something that sparks your interest rather than sticking to the conventional jobs."
+        },
+        {
+            "id":"3",
+            "title":"FOCS Notes",
+            "writer":"By Dr. Faisal Memon",
+            "content":"After graduating college, you will have plenty of time in your hands to go through different kinds of freelancing job lists, what skills the employer requires from you, websites and offers. There is so much diversity; people look for writers, artists, programmers, website designers, graphic designers, and much more. This means that there is a higher chance of you finding something that sparks your interest rather than sticking to the conventional jobs."
+        },
+        {
+            "id":"4",
+            "title":"QT Notes",
+            "writer":"By Dr. Faheem Khahwar",
+            "content":"After graduating college, you will have plenty of time in your hands to go through different kinds of freelancing job lists, what skills the employer requires from you, websites and offers. There is so much diversity; people look for writers, artists, programmers, website designers, graphic designers, and much more. This means that there is a higher chance of you finding something that sparks your interest rather than sticking to the conventional jobs."
+        },
+        {
+            "id":"5",
+            "title":"Thesis Notes",
+            "writer":"By Dept Chairman",
+            "content":"After graduating college, you will have plenty of time in your hands to go through different kinds of freelancing job lists, what skills the employer requires from you, websites and offers. There is so much diversity; people look for writers, artists, programmers, website designers, graphic designers, and much more. This means that there is a higher chance of you finding something that sparks your interest rather than sticking to the conventional jobs."
+        }
+    ]
+}
